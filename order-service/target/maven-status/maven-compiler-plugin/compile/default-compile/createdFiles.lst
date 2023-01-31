@@ -1,8 +1,0 @@
-com/mongo/orderservice/repo/OrderRepo.class
-com/mongo/orderservice/dto/OrderLineItemsDto.class
-com/mongo/orderservice/model/Order.class
-com/mongo/orderservice/model/OrderLineItems.class
-com/mongo/orderservice/controller/OrderController.class
-com/mongo/orderservice/service/OrderService.class
-com/mongo/orderservice/OrderServiceApplication.class
-com/mongo/orderservice/dto/OrderRequest.class
