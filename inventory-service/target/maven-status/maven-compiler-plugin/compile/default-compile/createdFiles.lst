@@ -1,0 +1,5 @@
+com/mongo/inventoryservice/InventoryServiceApplication.class
+com/mongo/inventoryservice/model/Inventory.class
+com/mongo/inventoryservice/repo/InventoryRepo.class
+com/mongo/inventoryservice/service/InventoryService.class
+com/mongo/inventoryservice/controller/InventoryController.class

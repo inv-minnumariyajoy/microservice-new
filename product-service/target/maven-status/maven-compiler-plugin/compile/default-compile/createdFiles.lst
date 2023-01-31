@@ -1,0 +1,10 @@
+com/mongo/product/dto/ProductResponse.class
+com/mongo/product/dto/ProductRequest$ProductRequestBuilder.class
+com/mongo/product/dto/ProductRequest.class
+com/mongo/product/contoller/ProductController.class
+com/mongo/product/dto/ProductResponse$ProductResponseBuilder.class
+com/mongo/product/model/Product$ProductBuilder.class
+com/mongo/product/model/Product.class
+com/mongo/product/service/ProductService.class
+com/mongo/product/MongoApplication.class
+com/mongo/product/repo/ProductRepository.class
