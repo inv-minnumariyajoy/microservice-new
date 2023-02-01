@@ -1,0 +1,6 @@
+/home/minnumariya/Documents/micro/microservices-new/inventory-service/src/main/java/com/mongo/inventoryservice/repo/InventoryRepo.java
+/home/minnumariya/Documents/micro/microservices-new/inventory-service/src/main/java/com/mongo/inventoryservice/InventoryServiceApplication.java
+/home/minnumariya/Documents/micro/microservices-new/inventory-service/src/main/java/com/mongo/inventoryservice/service/InventoryService.java
+/home/minnumariya/Documents/micro/microservices-new/inventory-service/src/main/java/com/mongo/inventoryservice/model/Inventory.java
+/home/minnumariya/Documents/micro/microservices-new/inventory-service/src/main/java/com/mongo/inventoryservice/dto/InventoryResponse.java
+/home/minnumariya/Documents/micro/microservices-new/inventory-service/src/main/java/com/mongo/inventoryservice/controller/InventoryController.java
