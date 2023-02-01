@@ -10,9 +10,12 @@
         <module name="product-service" />
         <module name="inventory-service" />
         <module name="order-service" />
+        <module name="discc" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="dicsovery" target="17" />
+      <module name="disc" target="17" />
       <module name="discovery-server" target="17" />
       <module name="Discovery-server" target="17" />
       <module name="discovery-service" target="17" />
@@ -21,6 +24,9 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Discovery-server" options="-parameters" />
+      <module name="dicsovery" options="-parameters" />
+      <module name="disc" options="-parameters" />
+      <module name="discc" options="-parameters" />
       <module name="discovery-server" options="-parameters" />
       <module name="discovery-service" options="-parameters" />
       <module name="inventory-service" options="-parameters" />
